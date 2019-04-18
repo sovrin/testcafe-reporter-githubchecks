@@ -1,0 +1,23 @@
+{
+  "name": "testcafe-reporter-githubchecks",
+  "version": "1.0.0",
+  "description": "githubchecks TestCafe reporter plugin.",
+  "repository": "https://github.com/sovrin/testcafe-reporter-githubchecks",
+  "author": {
+    "name": "Oleg Kamlowski",
+    "email": "kamlowski.oleg@gmail.com"
+  },
+  "main": "src/index.js",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "testcafe",
+    "reporter",
+    "plugin"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "github-app": "latest"
+  }
+}
